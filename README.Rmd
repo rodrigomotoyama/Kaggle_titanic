@@ -10,6 +10,8 @@ knitr::opts_chunk$set(
   fig.path = "man/figures/README-",
   out.width = "100%"
 )
+library(usethis)
+use_readme_rmd()
 ```
 
 # TEST
